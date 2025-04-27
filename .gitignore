@@ -1,0 +1,40 @@
+# Git ignore for Flutter. Learn more about Flutter at https://flutter.dev/
+.DS_Store
+.flutter-plugins
+.flutter-plugins-dependencies
+.idea
+.packages
+.pub-cache
+.vscode/
+/build
+/ios/.symlinks
+/ios/.generated
+/android/.gradle
+/android/captures
+/android/key.properties
+/android/local.properties
+/android/local.properties
+/android/gradlew
+/android/gradlew.bat
+/android/gradle/wrapper/gradle-wrapper.jar
+/android/app/src/debug/
+/android/app/src/profile/
+/android/app/build/
+/android/app/.gradle/
+/ios/Flutter/flutter_export_environment.sh
+/ios/Flutter/App.framework/
+/ios/Flutter/Flutter.framework/
+/ios/Flutter/flutter_assets/
+/ios/Pods/
+/ios/.generated/
+/ios/build/
+/macos/build/
+/windows/runner/build/
+/linux/build/
+/web/build/
+*.iml
+*.lock
+*~
+.#*
+# Your personal sensitive files (e.g. .env, credentials file)
+# .env
